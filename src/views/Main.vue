@@ -33,7 +33,7 @@ export default {
 }
 
 .el-aside {
-  background-color: aquamarine;
+  background-color: #545c64;
   color: #333;
   //text-align: center;
 }
