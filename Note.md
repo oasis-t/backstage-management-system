@@ -4,6 +4,7 @@
 * 安装node.js v14.18.0
 * 安装vue 4.5.14
 * 安装element
+* 安装echarts
 
 ### 开始写代码
 1. vue-cli创建项目
